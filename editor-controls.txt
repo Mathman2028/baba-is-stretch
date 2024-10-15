@@ -1,0 +1,10 @@
+i dont feel like adding a menu to actually do this properly so here you go
+
+left click: add objects
+right click: delete objects
+arrow keys: set direction of placed objects
+f3: test/edit
+t: swap text/tile
+tab: toggle outlines
+l: load level in clipboard
+s: save level to clipboard
