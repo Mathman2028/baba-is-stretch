@@ -41,6 +41,10 @@ typetable = {
     pull = texttypes.property,
     bind = texttypes.property,
     float = texttypes.property,
+    fallright = texttypes.property,
+    fallup = texttypes.property,
+    fallleft = texttypes.property,
+    falldown = texttypes.property,
     ["and"] = texttypes.joiner,
     ["not"] = texttypes.modifier,
     lonely = texttypes.prefix
@@ -113,7 +117,11 @@ colors = {
     text_pull = {2, 4},
     text_lonely = {1, 2},
     text_bind = {2, 4},
-    text_float = {4, 2}
+    text_float = {4, 2},
+    text_fallright = {3, 2},
+    text_fallup = {3, 2},
+    text_fallleft = {3, 2},
+    text_falldown = {3, 2},
 }
 
 directionality = {
